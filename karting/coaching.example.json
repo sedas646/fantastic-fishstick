@@ -1,0 +1,25 @@
+{
+ "title": "High Wycombe practice debrief",
+ "headline": "One sentence on the session: where the time is and what to change first.",
+ "target": "43.3",
+ "priorities": [
+  {"title": "Later apex at T6 onto the back straight", "detail": "What to change and the marker to use.", "gain": "≈0.25 s"}
+ ],
+ "corners": {
+  "T1": {
+   "name": "Optional corner name",
+   "rating": "focus",
+   "line": "The line to drive here, with visible markers.",
+   "issue": "What the frames and numbers show you doing now.",
+   "fix": "The single change to make.",
+   "overtake": "How a pass works here, or 'not a passing spot'.",
+   "defend": "How to cover it, or what to do instead."
+  }
+ },
+ "racecraft": {
+  "overtaking": ["Best passing spot and how to set it up"],
+  "defending": ["Where to cover and where to just drive your line"],
+  "starts": ["Grid side and first-corner plan"]
+ },
+ "method_note": "Optional override of the 'How this was measured' text."
+}

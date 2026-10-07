@@ -1,0 +1,11 @@
+# raw footage and telemetry stay out of git
+*.mp4
+*.MP4
+*.mov
+*.MOV
+*.LRV
+*.THM
+*.npz
+sessions/**/frames/_raw/
+sessions/**/report/view.html
+__pycache__/

@@ -1,0 +1,15 @@
+{
+ "name": "TeamSport High Wycombe",
+ "length_m": 425,
+ "length_note": "TeamSport quotes 425 m; older pages say 500 m. Lap-scaled speeds use length_m, so correct it here if the official figure differs.",
+ "location": "Eden Shopping Centre, High Wycombe (indoor)",
+ "karts": "Biz Ecovolt GT electric",
+ "features": ["multi-level", "two 5 m ramps", "indoor: no GPS fix expected"],
+ "lap_record_s": 43.1,
+ "lap_record_note": "Current record after the surface and tyre change (per driver, Oct 2026). Older videos predate the change.",
+ "layout_image": null,
+ "corner_count": null,
+ "corners": {},
+ "timing_line": {"description": null, "seconds_before_T1_turn_in": null},
+ "notes": []
+}
