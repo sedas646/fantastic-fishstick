@@ -2,7 +2,8 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: ['claude/ai-agent-system-1w59O']
+    branches: ['main', 'claude/gifted-carson-lsd7dk']
+  workflow_dispatch:
 
 permissions:
   contents: read
